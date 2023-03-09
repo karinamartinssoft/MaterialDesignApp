@@ -13,6 +13,7 @@
         android:layout_marginTop="8dp"
         android:checked="true"
         android:text="check"
+        android:theme="@style/Theme.MaterialComponents"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
